@@ -1,4 +1,25 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Whitelist";
+    Text = "Checking...";
+    Icon = "rbxassetid://2541869220";
+    Duration = 3
+	})
+wait(5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "RYKER V3";
     Text = "By SawFuntime";
     Icon = "rbxassetid://2541869220";
